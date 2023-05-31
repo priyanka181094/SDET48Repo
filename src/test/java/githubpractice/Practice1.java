@@ -17,6 +17,7 @@ public class Practice1 {
 	public void create()
 	{
 		System.out.println("create product");
+		System.out.println("inserted succesfully");
 	}
 
 }
