@@ -11,6 +11,7 @@ public class Practice2 {
 		
 		
 		System.out.println("i am studying");
+		System.out.println("hello");
 		
 		
 		
